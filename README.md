@@ -4,5 +4,5 @@
 <img src="https://komarev.com/ghpvc/?username=Pupsik22877778292&style=flat-square&color=blue" alt=""/>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/nwBMOVfhuS0AAAAC/darth-vader-im-ready.gif" width="600" height="300"/>
+  <img src="https://media1.tenor.com/m/nwBMOVfhuS0AAAAC/darth-vader-im-ready.gif" width="498" height="205"/>
 </div>
