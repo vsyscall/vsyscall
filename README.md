@@ -5,6 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=Pupsik22877778292&style=flat-square&color=blue" alt=""/>
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pupsik22877778292=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ### 🛠️ Languages and Tools:
