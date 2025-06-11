@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=vsyscall&style=flat-square&color=blue" alt=""/>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?vsyscall=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vsyscall)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
